@@ -5,9 +5,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 
-# Github credentials
-username = "rocky"
-password = "qazzaq21"
 
 # options = Options()
 # options.add_argument('--headless')
